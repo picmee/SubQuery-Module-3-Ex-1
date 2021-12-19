@@ -1,4 +1,4 @@
-![alt text]https://github.com/picmee/SubQuery-Module-3-Ex-1/blob/main/Ubuntu%2064-bit%20-%20Subquery%20Module%203-2021-12-20-05-20-51.png?raw=true)
+![alt text](https://github.com/picmee/SubQuery-Module-3-Ex-1/blob/69f80e0a77f33454e25898d5c4aaa55a14747e34/Ubuntu%2064-bit%20-%20Subquery%20Module%203-2021-12-20-05-20-51.png)
 
 # What is SubQuery?
 
